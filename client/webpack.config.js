@@ -1,3 +1,8 @@
+const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const { InjectManifest } = require('workbox-webpack-plugin');
+const WebpackPwaManifest = require('webpack-pwa-manifest');
+
 module.exports = () => {
   return {
     mode: 'development',
