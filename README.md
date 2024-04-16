@@ -9,7 +9,8 @@ a text editing app, can be used in a browser via render, or downloaded and used 
 
 ```bash
 # Step 1: Clone the repo
-git clone https://yourproject/repository.git
+git clone [https://yourproject/repository.git
+](https://github.com/Gsullivan7402/text-edit-app)
 
 # Step 2: Install dependencies
 npm install
